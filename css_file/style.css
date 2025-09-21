@@ -1,0 +1,59 @@
+.header{
+	height:150px;
+	background-color:salmon;
+}
+.container-s{
+	overflow: hidden;
+	border: solid black; 5px;
+}
+.s{
+	float:left;
+	width:20%;
+	height:100px;
+}
+.red{
+	
+	background-color: red;
+}
+.navy{
+	
+	background-color: navy;
+}
+.yellow{
+	background-color: yellow;
+}
+.seagreen{
+	background-color: seagreen;
+}
+.blueviolet{
+	background-color: blueviolet;
+}
+.a{ 
+	background-color: bisque;
+
+}
+.b{ 
+	background-color: gainsboro;
+}
+
+.c{ 
+	background-color: black;
+}
+.blog{
+	width: 30%;
+	height: 70px;
+	float: left;
+	background-color: seagreen;
+}
+.content{
+	width: 70%;
+	height: 70px;
+	float: right;
+	background-color: hotpink;
+
+}
+
+.footer{
+	height: 100px;
+	background-color:yellowgreen;
+}
